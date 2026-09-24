@@ -1,0 +1,16 @@
+{
+  "retrieval_example": {
+    "answer": "Based on the retrieved context: Every Zepto order shows a live rider-tracking map from the moment\nit is packed until delivery, accessible from the 'Track Order'\nscreen.",
+    "sources": [
+      "doc_04_order_tracking_chunk_0",
+      "doc_06_damaged_or_missing_items_chunk_0",
+      "doc_04_order_tracking_chunk_2"
+    ],
+    "confidence": 0.9
+  },
+  "general_example": {
+    "answer": "I can only answer questions about Zepto policies right now.",
+    "sources": [],
+    "confidence": 1.0
+  }
+}
